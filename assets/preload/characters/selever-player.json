@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Selever Left"
+		},
+		{
+			"offsets": [
+				-379,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Selever Down"
+		},
+		{
+			"offsets": [
+				7,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Selever Up"
+		},
+		{
+			"offsets": [
+				7,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Selever Idle"
+		},
+		{
+			"offsets": [
+				6,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Selever Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Selever",
+	"position": [
+		-340,
+		190
+	],
+	"healthicon": "Selever",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		35,
+		79
+	],
+	"camera_position": [
+		-190,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
